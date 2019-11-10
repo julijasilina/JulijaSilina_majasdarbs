@@ -1,6 +1,7 @@
 *{
     color:rgb(46, 37, 68);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(247, 245, 239);
 }
 
 h1{
@@ -21,6 +22,21 @@ h3{
 h4{
     Font-size: 1.5em;
 }
+
+a:hover {
+    color: blue;
+}
+
+.kuka{
+    padding: 10;
+}
+
+.thin-brown-border {
+    border-color: rgb(99, 74, 74);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+  }
 
 p{
     color: rgb(64, 64, 92);
